@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello there!&height=100&section=header"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Im%20Maxence!&descAlignY=51&descAlign=62)
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
