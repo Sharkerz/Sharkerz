@@ -22,9 +22,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me </h2>
 
 
-name: Lux Maxence
-located_in: Strasbourg, France
-current_job: Back-end Developer
+name: Lux Maxence  
+located_in: Strasbourg, France  
+current_job: Back-end Developer  
   
 ---  
   
